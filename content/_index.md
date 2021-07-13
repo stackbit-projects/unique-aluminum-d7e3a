@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Marketing Tricks No MBA Can Teach You
+    title: The Marketing Tricks No DOG Can Teach You
     subtitle: Your guide to B2B marketing in the real world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
